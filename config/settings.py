@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'mamazon.apps.MamazonConfig',
-    'mamazon.apps.CartConfig',
+    'cart.apps.CartConfig',
 ]
 
 MIDDLEWARE = [
